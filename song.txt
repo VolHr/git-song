@@ -1,2 +1,4 @@
 1 cat-hat
 2 bug-mug
+3 wild-child
+4 head-bed
